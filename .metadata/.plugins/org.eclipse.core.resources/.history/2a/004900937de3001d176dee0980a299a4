@@ -1,0 +1,5 @@
+package com.projetofrete.projetoFreteCep.cep;
+
+public interface CepInterface{
+
+}

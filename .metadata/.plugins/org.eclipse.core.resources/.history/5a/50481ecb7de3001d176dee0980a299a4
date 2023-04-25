@@ -1,0 +1,8 @@
+package com.projetofrete.projetoFreteCep.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CepService {
+
+}

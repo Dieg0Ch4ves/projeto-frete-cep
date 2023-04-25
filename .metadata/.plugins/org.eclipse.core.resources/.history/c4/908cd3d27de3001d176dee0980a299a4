@@ -1,0 +1,14 @@
+package com.projetofrete.projetoFreteCep.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CepService {
+
+	private RestTemplate restTemplate = new RestTemplate();
+
+	public CEP buscarCEP(String cep) {
+        String url = "https://viacep.com.br/ws/" + cep + "/json/";
+        CEP resposta = restTemplate.getForObject(url, CEP.class);
+        return resposta;
+}

@@ -1,0 +1,10 @@
+package com.projetofrete.projetoFreteCep.cep;
+
+public class Cep {
+
+	private String cep;
+	private String rua;
+	private String complemento
+	private
+	private
+}
