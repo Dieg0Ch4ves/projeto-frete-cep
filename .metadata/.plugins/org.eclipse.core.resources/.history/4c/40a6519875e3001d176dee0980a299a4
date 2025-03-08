@@ -1,7 +1,0 @@
-package com.projetofrete.projetoFreteCep.cep;
-
-import org.springframework.data.jpa.repository.support.CrudMethodMetadata;
-
-public interface CepInterface  extends CrudMethodMetadata{
-
-}
