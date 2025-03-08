@@ -1,5 +1,9 @@
 # Serviço de Busca de CEP
 
+<p align="center">
+  <img src="./image.webp" alt="Diagrama do Serviço de Busca de CEP" height="400"/>
+</p>
+
 Este é um projeto desenvolvido com o framework [Spring](https://spring.io/) 3.0.6, que fornece um serviço REST para buscar informações sobre um CEP (Código de Endereçamento Postal) e calcular o valor do frete baseado na unidade federativa (UF) de destino.
 
 ## Estrutura do Projeto

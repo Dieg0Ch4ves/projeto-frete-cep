@@ -4,6 +4,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+./image.webp
+
+.image.webp
+
 ### STS ###
 .apt_generated
 .classpath
